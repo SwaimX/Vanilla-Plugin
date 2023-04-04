@@ -1,0 +1,4 @@
+name: Vanila_1.19.4
+version: '${project.version}'
+main: swaimx.me.vanila_19.Vanila_19
+api-version: 1.19
